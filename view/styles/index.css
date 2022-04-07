@@ -1,0 +1,74 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.vertical-line {
+    display: inline-block;
+    border-left: 1px solid #ccc;
+    margin: 0 10px;
+    height: 10px;
+}
+
+.styled-button {
+    /* border: hidden; */
+    margin: 2px;
+}
+
+.node {
+    padding-left: 20px;
+}
+
+.seed-add {
+    padding-left: 20px;
+}
+
+.seed-update {
+    padding-left: 20px;
+}
+
+.grn-btn {
+    background-color: lightgreen;
+}
+
+.red-btn {
+    background-color: red;
+}
+
+.name-desc {
+    display: inline;
+    margin-left: 10px;
+}
+
+.name {
+    display: inline;
+    margin-left: 10px;
+}
+
+.description {
+    display: inline;
+    margin-left: 10px;
+}
+
+.show-button {
+    margin-left: 20px;
+    border-radius: 15px;
+}
+
+.description-area {
+    background-color: white;
+    height: auto;
+    min-width: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    top: 30px;
+    right: 30px;
+    position: absolute;
+}
+
+.description-area p {
+    background-color: black;
+    width: 100%;
+    margin: 0;
+    padding-left: 5px;
+}
